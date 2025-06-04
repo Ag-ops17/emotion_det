@@ -1,17 +1,17 @@
-streamlit==1.35.0
-streamlit-webrtc==0.45.2
-opencv-python-headless==4.9.0.80
+streamlit
+streamlit-webrtc
+opencv-python-headless
 
-deepface==0.40
+deepface
 
-tensorflow==2.15.0
-keras==2.15.0
-tf-keras==2.15.0
+tensorflow
+keras
+tf-keras
 
-torch==2.2.0
-torchvision==0.17.0
+torch
+torchvision
 
-numpy==1.24.3
-pandas==1.5.3
-matplotlib==3.7.1
-gdown==4.7.1
+numpy
+pandas
+matplotlib
+gdown
