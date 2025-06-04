@@ -4,3 +4,5 @@ streamlit_webrtc
 deepface
 opencv-python
 av
+tf-kera
+torch
