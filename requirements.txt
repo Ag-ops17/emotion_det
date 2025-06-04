@@ -1,8 +1,0 @@
-python=3.10.12
-streamlit
-streamlit_webrtc
-deepface
-opencv-python
-av
-tf-kera
-torch
